@@ -3,12 +3,20 @@
   "version": "1.0.0",
   "description": "Guarda is glad to present our set of icons for various cryptocurrencies and tokens that can be downloaded and used completely for free.",
   "main": "index.js",
+  "private": false,
   "keywords": [
     "cryptocurrencies",
     "icons",
     "svg",
     "svg-icons"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guardaco/crypto-icons"
+  },
+  "bugs": {
+    "url": "https://github.com/guardaco/crypto-icons/issues"
+  },
   "author": "Guarda co",
   "license": "MIT"
 }

@@ -1,3 +1,6 @@
+.icon-crpt:before {
+  content: "\e9cc";
+}
 .icon-tip:before {
   content: "\e9cb";
 }

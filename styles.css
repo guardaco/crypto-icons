@@ -1,3 +1,62 @@
+.icon-via:before {
+  content: "\e9cd";
+}
+.icon-myst:before {
+  content: "\e9ce";
+}
+.icon-adt .path1:before {
+  content: "\e9cf";
+  color: none;
+}
+.icon-adt .path2:before {
+  content: "\e9d0";
+  margin-left: -0.88671875em;
+  color: rgb(0, 0, 0);
+}
+.icon-adt .path3:before {
+  content: "\e9d1";
+  margin-left: -0.88671875em;
+  color: rgb(255, 255, 255);
+}
+.icon-cfi:before {
+  content: "\e9d2";
+}
+.icon-dsh:before {
+  content: "\e9d3";
+}
+.icon-xlm:before {
+  content: "\e9d4";
+}
+.icon-fsbt:before {
+  content: "\e9d5";
+}
+.icon-atl:before {
+  content: "\e9d6";
+}
+.icon-ath:before {
+  content: "\e9d7";
+}
+.icon-arn:before {
+  content: "\e9d8";
+}
+.icon-arc:before {
+  content: "\e9d9";
+}
+.icon-apt:before {
+  content: "\e9da";
+}
+.icon-aidoc:before {
+  content: "\e9db";
+}
+.icon-amis:before {
+  content: "\e9dc";
+}
+.icon-adst:before {
+  content: "\e9dd";
+}
+.icon-300:before {
+  content: "\e9de";
+}
 .icon-crpt:before {
   content: "\e9cc";
 }

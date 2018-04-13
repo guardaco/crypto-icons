@@ -1,22 +1,20 @@
+.icon-gbyte:before {
+  content: "\e93c";
+}
+.icon-cnd:before {
+  content: "\e94c";
+}
+.icon-miota:before {
+  content: "\e9cf";
+}
+.icon-adt:before {
+  content: "\e9d0";
+}
 .icon-via:before {
   content: "\e9cd";
 }
 .icon-myst:before {
   content: "\e9ce";
-}
-.icon-adt .path1:before {
-  content: "\e9cf";
-  color: none;
-}
-.icon-adt .path2:before {
-  content: "\e9d0";
-  margin-left: -0.88671875em;
-  color: rgb(0, 0, 0);
-}
-.icon-adt .path3:before {
-  content: "\e9d1";
-  margin-left: -0.88671875em;
-  color: rgb(255, 255, 255);
 }
 .icon-cfi:before {
   content: "\e9d2";
@@ -288,10 +286,6 @@
 .icon-gbg:before {
   content: "\e93b";
 }
-.icon-gbyte:before {
-  content: "\e93c";
-  color: #fff;
-}
 .icon-gdc:before {
   content: "\e93d";
 }
@@ -336,9 +330,6 @@
 }
 .icon-ioc:before {
   content: "\e94b";
-}
-.icon-iota:before {
-  content: "\e94c";
 }
 .icon-ixt:before {
   content: "\e94d";

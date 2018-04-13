@@ -1,3 +1,18 @@
+.icon-eng:before {
+  content: "\e9d1";
+}
+.icon-ngc:before {
+  content: "\e9df";
+}
+.icon-srn:before {
+  content: "\e9e0";
+}
+.icon-wax:before {
+  content: "\e9e1";
+}
+.icon-dcn:before {
+  content: "\e9e2";
+}
 .icon-gbyte:before {
   content: "\e93c";
 }

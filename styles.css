@@ -1,3 +1,21 @@
+.icon-dkk:before {
+  content: "\e9e4";
+}
+.icon-gbp:before {
+  content: "\e9e5";
+}
+.icon-eur:before {
+  content: "\e9e6";
+}
+.icon-usd:before {
+  content: "\e9e7";
+}
+.icon-ukg:before {
+  content: "\e9e8";
+}
+.icon-lrc:before {
+  content: "\e9e9";
+}
 .icon-powr:before {
   content: "\e9e3";
 }

@@ -2,6 +2,8 @@
 
 Guarda is glad to present our set of icons for various cryptocurrencies and tokens that can be downloaded and used completely for free.
 
+![Guarda crypto icons](guarda_icons.jpg?raw=true "Guarda crypto icons")
+
 * Vector-based
 * Webfont and SVG formats
 * Scalable without quality loss

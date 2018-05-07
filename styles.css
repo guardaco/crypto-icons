@@ -1,3 +1,21 @@
+.icon-brd:before {
+  content: "\e9ea";
+}
+.icon-mana:before {
+  content: "\e9eb";
+}
+.icon-mer:before {
+  content: "\e9ec";
+}
+.icon-tix:before {
+  content: "\e9ed";
+}
+.icon-xel:before {
+  content: "\e9ee";
+}
+.icon-zen:before {
+  content: "\e9ef";
+}
 .icon-dkk:before {
   content: "\e9e4";
 }

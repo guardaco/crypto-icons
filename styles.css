@@ -1,3 +1,39 @@
+.icon-btcp:before {
+  content: "\e9f0";
+}
+.icon-ebst:before {
+  content: "\e9f1";
+}
+.icon-elf:before {
+  content: "\e9f2";
+}
+.icon-hsr:before {
+  content: "\e9f3";
+}
+.icon-iost:before {
+  content: "\e9f4";
+}
+.icon-loom:before {
+  content: "\e9f5";
+}
+.icon-mkr:before {
+  content: "\e9f6";
+}
+.icon-nas:before {
+  content: "\e9f7";
+}
+.icon-now:before {
+  content: "\e9f8";
+}
+.icon-snm:before {
+  content: "\e9f9";
+}
+.icon-synx:before {
+  content: "\e9fa";
+}
+.icon-wan:before {
+  content: "\e9fb";
+}
 .icon-brd:before {
   content: "\e9ea";
 }

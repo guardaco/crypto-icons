@@ -32,7 +32,7 @@
   "homepage": "https://guarda.co/",
   "license": "MIT",
   "devDependencies": {
-    "stylelint": "^9.2.1",
+    "stylelint": "^9.4.0",
     "stylelint-config-standard": "^18.2.0"
   }
 }

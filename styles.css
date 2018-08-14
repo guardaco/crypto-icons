@@ -1,3 +1,7 @@
+.icon-ely::before {
+  content: "\e9fd";
+}
+
 .icon-btcp::before {
   content: "\e9f0";
 }

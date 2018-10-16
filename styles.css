@@ -1,3 +1,11 @@
+.icon-ela::before {
+  content: "\e9fe";
+}
+
+.icon-smart::before {
+  content: "\e9ff";
+}
+
 .icon-ely::before {
   content: "\e9fd";
 }

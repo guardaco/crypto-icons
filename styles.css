@@ -1,3 +1,7 @@
+.icon-aion::before {
+  content: "\ea00";
+}
+
 .icon-ela::before {
   content: "\e9fe";
 }

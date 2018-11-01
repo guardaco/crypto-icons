@@ -1,3 +1,19 @@
+.icon-tusd::before {
+  content: "\ea01";
+}
+
+.icon-usdc::before {
+  content: "\ea02";
+}
+
+.icon-dai::before {
+  content: "\ea03";
+}
+
+.icon-pax::before {
+  content: "\ea04";
+}
+
 .icon-aion::before {
   content: "\ea00";
 }

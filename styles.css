@@ -1,3 +1,7 @@
+.icon-joys::before {
+  content: "\ea05";
+}
+
 .icon-tusd::before {
   content: "\ea01";
 }

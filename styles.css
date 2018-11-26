@@ -1,3 +1,7 @@
+.icon-bsv::before {
+  content: "\ea07";
+}
+
 .icon-bchsv::before {
   content: "\ea06";
 }

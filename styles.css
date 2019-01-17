@@ -1,3 +1,11 @@
+.icon-trezor::before {
+  content: "\ea09";
+}
+
+.icon-ledger::before {
+  content: "\ea0a";
+}
+
 .icon-bth::before {
   content: "\ea08";
 }

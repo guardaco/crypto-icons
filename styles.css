@@ -1,3 +1,27 @@
+.icon-npxs::before {
+  content: "\ea0c";
+}
+
+.icon-r::before {
+  content: "\ea0b";
+}
+
+.icon-link::before {
+  content: "\ea0e";
+}
+
+.icon-hot::before {
+  content: "\ea0f";
+}
+
+.icon-gusd::before {
+  content: "\ea10";
+}
+
+.icon-eurs::before {
+  content: "\ea11";
+}
+
 .icon-trezor::before {
   content: "\ea09";
 }

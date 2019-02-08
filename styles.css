@@ -1,3 +1,7 @@
+.icon-vet::before {
+  content: "\ea03";
+}
+
 .icon-npxs::before {
   content: "\ea0c";
 }

@@ -1,3 +1,7 @@
+.icon-vtho::before {
+  content: "\ea12";
+}
+
 .icon-vet::before {
   content: "\ea03";
 }

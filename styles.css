@@ -1,3 +1,7 @@
+.icon-kin::before {
+  content: "\ea13";
+}
+
 .icon-vtho::before {
   content: "\ea12";
 }

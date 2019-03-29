@@ -1,3 +1,7 @@
+.icon-ont::before {
+  content: "\ea14";
+}
+
 .icon-kin::before {
   content: "\ea13";
 }

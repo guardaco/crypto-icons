@@ -1,3 +1,7 @@
+.icon-awc::before {
+  content: "\e946";
+}
+
 .icon-ont::before {
   content: "\ea14";
 }

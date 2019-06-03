@@ -1,3 +1,23 @@
+.icon-bnbmainnet::before {
+  content: "\e912";
+}
+
+.icon-eth-ropsten::before {
+  content: "\e931";
+}
+
+.icon-btc-testnet::before {
+  content: "\e918";
+}
+
+.icon-now-e68::before {
+  content: "\e9f8";
+}
+
+.icon-awc-986::before {
+  content: "\e946";
+}
+
 .icon-awc::before {
   content: "\e946";
 }

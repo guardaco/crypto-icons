@@ -1,3 +1,7 @@
+.icon-atom::before {
+  content: "\ea15";
+}
+
 .icon-bnbmainnet::before {
   content: "\e912";
 }

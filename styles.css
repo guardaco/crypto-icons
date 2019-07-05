@@ -1,3 +1,27 @@
+.icon-ankr::before {
+  content: "\ea16";
+}
+
+.icon-erd::before {
+  content: "\ea17";
+}
+
+.icon-ftm::before {
+  content: "\ea18";
+}
+
+.icon-lto::before {
+  content: "\ea19";
+}
+
+.icon-und::before {
+  content: "\ea1a";
+}
+
+.icon-vera::before {
+  content: "\ea1b";
+}
+
 .icon-atom::before {
   content: "\ea15";
 }

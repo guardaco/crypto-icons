@@ -1,3 +1,7 @@
+.icon-yec::before {
+  content: "\ea1c";
+}
+
 .icon-ankr::before {
   content: "\ea16";
 }

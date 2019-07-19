@@ -1,3 +1,7 @@
+.icon-aya::before {
+  content: "\ea1d";
+}
+
 .icon-yec::before {
   content: "\ea1c";
 }

@@ -1,3 +1,7 @@
+.icon-iotx::before {
+  content: "\ea1f";
+}
+
 .icon-ethplo::before {
   content: "\ea1e";
 }

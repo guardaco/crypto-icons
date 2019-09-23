@@ -1,3 +1,7 @@
+.icon-enj::before {
+  content: "\ea20";
+}
+
 .icon-iotx::before {
   content: "\ea1f";
 }

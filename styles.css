@@ -1,3 +1,7 @@
+.icon-rvn::before {
+  content: "\ea21";
+}
+
 .icon-enj::before {
   content: "\ea20";
 }

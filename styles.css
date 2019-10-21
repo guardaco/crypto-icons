@@ -1,3 +1,39 @@
+.icon-xns::before {
+  content: "\ea22";
+}
+
+.icon-pyn::before {
+  content: "\ea23";
+}
+
+.icon-ncash::before {
+  content: "\ea24";
+}
+
+.icon-loki::before {
+  content: "\ea25";
+}
+
+.icon-knc::before {
+  content: "\ea26";
+}
+
+.icon-job::before {
+  content: "\ea27";
+}
+
+.icon-chz::before {
+  content: "\ea28";
+}
+
+.icon-btu::before {
+  content: "\ea29";
+}
+
+.icon-apis::before {
+  content: "\ea2a";
+}
+
 .icon-rvn::before {
   content: "\ea21";
 }

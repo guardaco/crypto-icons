@@ -1,3 +1,7 @@
+.icon-gas::before {
+  content: "\ea2b";
+}
+
 .icon-xns::before {
   content: "\ea22";
 }

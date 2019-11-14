@@ -1,3 +1,15 @@
+.icon-busd::before {
+  content: "\ea2c";
+}
+
+.icon-iq::before {
+  content: "\ea2d";
+}
+
+.icon-lst::before {
+  content: "\ea2e";
+}
+
 .icon-gas::before {
   content: "\ea2b";
 }

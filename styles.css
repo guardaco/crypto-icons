@@ -1,3 +1,7 @@
+.icon-ong::before {
+  content: "\ea2f";
+}
+
 .icon-busd::before {
   content: "\ea2c";
 }

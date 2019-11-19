@@ -1,3 +1,11 @@
+.icon-nut::before {
+  content: "\ea30";
+}
+
+.icon-eosdt::before {
+  content: "\ea31";
+}
+
 .icon-ong::before {
   content: "\ea2f";
 }

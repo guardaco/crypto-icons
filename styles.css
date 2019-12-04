@@ -1,3 +1,7 @@
+.icon-fio::before {
+  content: "\ea32";
+}
+
 .icon-nut::before {
   content: "\ea30";
 }

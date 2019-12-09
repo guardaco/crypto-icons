@@ -1,3 +1,7 @@
+.icon-crm::before {
+  content: "\ea33";
+}
+
 .icon-fio::before {
   content: "\ea32";
 }

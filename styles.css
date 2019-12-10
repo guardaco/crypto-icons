@@ -1218,6 +1218,10 @@
   content: "\e9b2";
 }
 
+.icon-xmr-testnet::before {
+  content: "\e9b2";
+}
+
 .icon-xpm::before {
   content: "\e9b3";
 }
@@ -1243,6 +1247,10 @@
 }
 
 .icon-zec::before {
+  content: "\e9b9";
+}
+
+.icon-zec-testnet::before {
   content: "\e9b9";
 }
 

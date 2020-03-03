@@ -1,3 +1,15 @@
+.icon-byts::before {
+  content: "\ea34";
+}
+
+.icon-stash::before {
+  content: "\ea35";
+}
+
+.icon-hex::before {
+  content: "\ea36";
+}
+
 .icon-crm::before {
   content: "\ea33";
 }
